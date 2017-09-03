@@ -1,0 +1,9 @@
+{
+  "name": "pixilspace",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "firebase-tools": "^3.10.0"
+  }
+}

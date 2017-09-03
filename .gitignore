@@ -1,0 +1,9 @@
+# Development stuff
+node_modules/
+
+# Private stuff
+firebase.json
+.firebaserc
+
+# Generated stuff
+public/
